@@ -1,0 +1,42 @@
+[
+  {
+    "id": "prod_001",
+    "title": "Sony WH-1000XM5 ワイヤレスノイズキャンセリングヘッドホン",
+    "price": "48,900",
+    "currency": "JPY",
+    "image": "https://placehold.co/300x300/1e293b/cbd5e1?text=Headphone",
+    "url": "https://www.amazon.co.jp/dp/B09XS7JWHH",
+    "source": "Amazon",
+    "discount": "15% OFF"
+  },
+  {
+    "id": "prod_002",
+    "title": "Anker 737 Charger (GaNPrime 120W)",
+    "price": "12,990",
+    "currency": "JPY",
+    "image": "https://placehold.co/300x300/1e293b/cbd5e1?text=Charger",
+    "url": "https://www.amazon.co.jp/dp/B09X4Q6GZ1",
+    "source": "Amazon",
+    "discount": null
+  },
+  {
+    "id": "prod_003",
+    "title": "Apple MacBook Air 13インチ M3チップ",
+    "price": "164,800",
+    "currency": "JPY",
+    "image": "https://placehold.co/300x300/1e293b/cbd5e1?text=MacBook",
+    "url": "https://www.amazon.co.jp/dp/B0CX21C89F",
+    "source": "Amazon",
+    "discount": "5% OFF"
+  },
+  {
+    "id": "prod_004",
+    "title": "Keychron K2 Pro Mechanical Keyboard",
+    "price": "18,900",
+    "currency": "JPY",
+    "image": "https://placehold.co/300x300/1e293b/cbd5e1?text=Keyboard",
+    "url": "#",
+    "source": "Rakuten",
+    "discount": null
+  }
+]
