@@ -8,7 +8,7 @@ export default function Home() {
       <header className="bg-slate-950 border-b border-cyan-800 p-6 sticky top-0 z-50 backdrop-blur-md bg-slate-950/80">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500">
-            KOZENI GADGET
+            GADGET FLOW
           </h1>
           <span className="text-xs text-cyan-700 border border-cyan-900 px-2 py-1 rounded">
             Auto-Generated
@@ -98,7 +98,7 @@ export default function Home() {
       </main>
 
       <footer className="mt-12 border-t border-slate-800 bg-slate-950 py-8 text-center text-slate-600 text-sm">
-        <p>&copy; 2026 Project Kozeni. Powered by Next.js & Automated Scripts.</p>
+        <p>&copy; 2026 Gadget Flow. Powered by Next.js & Automated Scripts.</p>
         <div className="mt-4 flex justify-center gap-4">
           <Link href="/privacy" className="hover:text-cyan-400 hover:underline transition-colors">
             Privacy Policy

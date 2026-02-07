@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
                     <section>
                         <h2 className="text-lg font-semibold text-slate-100 mb-2">3. Amazonアソシエイト・プログラムについて</h2>
                         <p>
-                            当サイト（Kozeni Gadget）は、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。
+                            当サイト（Gadget Flow）は、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。
                         </p>
                     </section>
 
