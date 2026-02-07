@@ -1,4 +1,5 @@
 import newsData from '@/data/news.json';
+import Link from 'next/link';
 import productData from '@/data/products.json';
 
 export default function Home() {
@@ -98,6 +99,15 @@ export default function Home() {
 
       <footer className="mt-12 border-t border-slate-800 bg-slate-950 py-8 text-center text-slate-600 text-sm">
         <p>&copy; 2026 Project Kozeni. Powered by Next.js & Automated Scripts.</p>
+        <div className="mt-4 flex justify-center gap-4">
+          <Link href="/privacy" className="hover:text-cyan-400 hover:underline transition-colors">
+            Privacy Policy
+          </Link>
+          <span className="text-slate-800">|</span>
+          <a href="#" className="hover:text-cyan-400 hover:underline transition-colors">
+            Contact
+          </a>
+        </div>
       </footer>
     </div>
   );
