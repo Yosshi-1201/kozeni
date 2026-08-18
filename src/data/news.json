@@ -1,20 +1,8 @@
 [
   {
-    "title": "ジョニー・アイブの手がけたフェラーリ、車台番号「0」が63億円で落札",
-    "url": "https://www.gizmodo.jp/article/first-production-ferrari-luce-goes-for-40-million/",
-    "date": "Tue, 18 Aug 2026 02:00:00 GMT",
-    "source": "Gizmodo Japan"
-  },
-  {
-    "title": "ChatGPTに「本音で言い返していいよ」と言ったら、思った以上に辛辣だった",
-    "url": "https://www.gizmodo.jp/article/we-asked-chatgpt-to-be-mean-mqp/",
-    "date": "Mon, 17 Aug 2026 07:35:00 GMT",
-    "source": "Gizmodo Japan"
-  },
-  {
-    "title": "IBMの研究者はかく語りき。「量子コンピューターはもう実現しているよ」",
-    "url": "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/",
-    "date": "Mon, 17 Aug 2026 08:35:00 GMT",
+    "title": "Instagram、10年ぶりにワードロゴを変更。なんか微妙…",
+    "url": "https://www.gizmodo.jp/article/instagram_logo_renewal/",
+    "date": "Tue, 18 Aug 2026 04:00:00 GMT",
     "source": "Gizmodo Japan"
   },
   {
@@ -24,39 +12,51 @@
     "source": "Gizmodo Japan"
   },
   {
-    "title": "黒ヤギ頭のケンタウロス型ロボット。人命救助で活躍するか",
-    "url": "https://www.gizmodo.jp/article/satyress_threehalves_robot/",
-    "date": "Mon, 17 Aug 2026 12:00:00 GMT",
+    "title": "推し活もデジタル化。画像入れ替え＆動画対応缶バッジで捗るわ",
+    "url": "https://www.gizmodo.jp/article/adget_can-badge-mag/",
+    "date": "Mon, 17 Aug 2026 23:00:00 GMT",
     "source": "Gizmodo Japan"
   },
   {
-    "title": "私が古いAndroidを愛用する5つの理由",
-    "url": "https://www.lifehacker.jp/article/2608-5-things-old-android-phone-does-better-than-dedicated-gadget/",
-    "date": "Mon, 17 Aug 2026 13:00:00 GMT",
+    "title": "ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話",
+    "url": "https://www.gizmodo.jp/article/chat_gpt_consultation/",
+    "date": "Tue, 18 Aug 2026 05:35:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "Galaxy S27、カメラに物理的「可変絞り」の搭載を見送り。やっぱり今じゃないか…",
+    "url": "https://www.gizmodo.jp/article/samsung-galaxy-s27-variable-aperture/",
+    "date": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "タバコ1箱7100円、iPhone41万円…最も物価が高い国はここだ",
+    "url": "https://www.lifehacker.jp/article/2608_businessinsider_2607-world-most-expensive-cities-everday-items-rent-food-iphone-switzerland/",
+    "date": "Mon, 17 Aug 2026 11:00:00 GMT",
     "source": "Lifehacker Japan"
   },
   {
-    "title": "鍼灸師が開発。94%が「スマホが軽くなった」と答えたリングで首・肩の負担18kgを軽減する",
-    "url": "https://www.lifehacker.jp/article/2608-costorypo-syantoringvslim-end-1680422607/",
-    "date": "Tue, 18 Aug 2026 01:30:00 GMT",
+    "title": "Android版Chromeがアップデート。iOSだけの特権だった「戻るボタン」がついに搭載",
+    "url": "https://www.lifehacker.jp/article/2608-google-just-added-a-back-button-to-chrome-for-android/",
+    "date": "Mon, 17 Aug 2026 23:45:00 GMT",
     "source": "Lifehacker Japan"
   },
   {
-    "title": "カメラからゲーム機、ガジェットまで。包んで安全に持ち運べる万能ラップ",
-    "url": "https://www.lifehacker.jp/article/2608-lht-kodak-cameracase/",
-    "date": "Mon, 17 Aug 2026 10:00:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "パソコンが入っていないパソコン。スマホやラズパイを挿すと15.6インチで動き出す",
-    "url": "https://www.lifehacker.jp/article/machi-ya-crowviewnote2-start-960240/",
-    "date": "Mon, 17 Aug 2026 11:45:00 GMT",
+    "title": "愛車の窓やドアの隙間に溜まるホコリ汚れ。羽根でサッと撫でておくと固着せずに済みました",
+    "url": "https://www.lifehacker.jp/article/machi-ya-featherdusterpre-start-939419-csc/",
+    "date": "Tue, 18 Aug 2026 07:30:00 GMT",
     "source": "Lifehacker Japan"
   },
   {
     "title": "この仕事道具、全部消えます。リビングのテーブルを「理想の仕事場」に変える整理術",
     "url": "https://www.lifehacker.jp/article/2608-yamazakijitsugyou-under-table-storage-rack/",
     "date": "Mon, 17 Aug 2026 12:45:00 GMT",
+    "source": "Lifehacker Japan"
+  },
+  {
+    "title": "連休明けの初動をChatGPTに委ねる3つのステップ",
+    "url": "https://www.lifehacker.jp/article/2608-matome-chatgpt-summer/",
+    "date": "Mon, 17 Aug 2026 12:00:00 GMT",
     "source": "Lifehacker Japan"
   }
 ]
