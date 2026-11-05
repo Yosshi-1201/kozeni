@@ -1,33 +1,51 @@
 [
   {
+    "title": "引き続き「ガジェットは今日が1番安い」。Apple、さらなる値上げがないこともない",
+    "url": "https://www.gizmodo.jp/article/2611-apple-gadget-price-increase/",
+    "date": "Wed, 04 Nov 2026 23:00:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "「好き」を飾って「好き」を聴く。ディスプレイケース一体型スピーカー",
+    "url": "https://www.gizmodo.jp/article/2611-display-case-speaker/",
+    "date": "Wed, 04 Nov 2026 22:30:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "春のiPhone 18、2nmチップと大容量バッテリー搭載の予測。値上がりもするでしょう",
+    "url": "https://www.gizmodo.jp/article/2611-iphone-18-rumors-2nm-chip-battery/",
+    "date": "Wed, 04 Nov 2026 22:15:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "Apple Watch、会話を振り返るレコーダー機能をテスト中。便利そうで、ちょっと怖い",
+    "url": "https://www.gizmodo.jp/article/2611-apple-watch-live-rewind-siri-recaps/",
+    "date": "Wed, 04 Nov 2026 22:00:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
     "title": "スマホの寿命を延ばしたい。そう思い立った私は、1万円台のタブレットを買った",
     "url": "https://www.gizmodo.jp/article/lenovo-tab_review-dh8-phone/",
     "date": "Wed, 04 Nov 2026 14:00:00 GMT",
     "source": "Gizmodo Japan"
   },
   {
-    "title": "タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正",
-    "url": "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
-    "date": "Wed, 04 Nov 2026 13:30:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "何年もiPhoneを使っているのに知らなかった。「連絡先」の隠れた便利機能10選",
+    "url": "https://www.lifehacker.jp/article/2611-contacts-app-tips-for-apple-users/",
+    "date": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
-    "title": "服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます",
-    "url": "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/",
-    "date": "Wed, 04 Nov 2026 13:00:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "「なにかをする」より、まず眠る。充実しているのに虚しさを感じたときの対処法",
+    "url": "https://www.lifehacker.jp/article/2611-book_to_read-2066/",
+    "date": "Wed, 04 Nov 2026 23:00:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
-    "title": "中古ショップがAIエージェントに「待った」。何時間でもカートに入れて「保留状態」が可能に",
-    "url": "https://www.gizmodo.jp/article/2611-ai-agent-cart-hold-secondhand-shops/",
-    "date": "Wed, 04 Nov 2026 12:30:00 GMT",
-    "source": "Gizmodo Japan"
-  },
-  {
-    "title": "AIとしゃべれる“ごっち”的ガジェット。2人＋AIで片手間＆1週間で爆速開発",
-    "url": "https://www.gizmodo.jp/article/2611-openai-tamagpt-gadget/",
-    "date": "Wed, 04 Nov 2026 12:00:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "オフィスで14分待てば、炊き立てご飯が炊ける。弁当箱炊飯器",
+    "url": "https://www.lifehacker.jp/article/amazon-thanko-bentoboxricecooker-2611-dhl/",
+    "date": "Wed, 04 Nov 2026 21:15:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
     "title": "運動する時間がなくても大丈夫。室内で履いて歩くだけの運動習慣",
@@ -39,24 +57,6 @@
     "title": "スマホストラップにもサコッシュにも早変わり！MOFTの新作で必需品だけまとめて身軽になれた",
     "url": "https://www.lifehacker.jp/article/2610-lht-moft-packable-multi-strap/",
     "date": "Wed, 04 Nov 2026 13:15:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "天然精油を使ったメンズ専用練り香水なら、近づいたときにさりげなく香る",
-    "url": "https://www.lifehacker.jp/article/2611-costorypo-moteal-start-1954544339/",
-    "date": "Wed, 04 Nov 2026 13:00:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "ToDoリストでタスク管理、逆にストレスになってない？1日を充実させる「モーニングレビュー」実践方法",
-    "url": "https://www.lifehacker.jp/article/2611-ditch-to-do-lists-for-morning-review-iuf/",
-    "date": "Wed, 04 Nov 2026 12:45:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "そのリンク、そのまま開いて大丈夫？Androidでトラッキングを防ぐ簡単な方法",
-    "url": "https://www.lifehacker.jp/article/2611-changed-what-happens-when-i-tap-link-on-android/",
-    "date": "Wed, 04 Nov 2026 12:30:00 GMT",
     "source": "Lifehacker Japan"
   }
 ]
