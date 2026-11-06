@@ -1,6 +1,24 @@
 [
   {
-    "title": "黒って300色あんねん、と有機ELのMacBook Proが教えてくれた",
+    "title": "綺麗な和訳を無料で、スマホででも。高性能な翻訳特化の国産ローカルLLM「PLaMo 3 Translate」",
+    "url": "https://www.gizmodo.jp/article/2611-plamo-3-translate-local-llm/",
+    "date": "Thu, 05 Nov 2026 23:50:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "MacBookの天板をMagSafe化するなんて、ノーベル賞級の発想だと思いません？",
+    "url": "https://www.gizmodo.jp/article/2611-pitaka-magsafe-macbook-case/",
+    "date": "Thu, 05 Nov 2026 23:00:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "Nothing、12月にスクリーンなしのAI端末を発表予定。音声メモ端末、かな？",
+    "url": "https://www.gizmodo.jp/article/2611-nothing-ai-device-december/",
+    "date": "Thu, 05 Nov 2026 22:00:00 GMT",
+    "source": "Gizmodo Japan"
+  },
+  {
+    "title": "Apple初のタッチ対応MacBook Pro、注目すべきは色と音。それだけで欲しくなる",
     "url": "https://www.gizmodo.jp/article/proled-macbook-pro-display-color-sounds/",
     "date": "Thu, 05 Nov 2026 14:00:00 GMT",
     "source": "Gizmodo Japan"
@@ -12,51 +30,33 @@
     "source": "Gizmodo Japan"
   },
   {
-    "title": "SR-71ブラックバードの再来？ NASAが発表した新型「Xプレーン」の正体",
-    "url": "https://www.gizmodo.jp/article/2611-nasa-x-70-fractal-sr-71/",
-    "date": "Thu, 05 Nov 2026 12:30:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "集中力が続かないことに悩んでいた私が、在宅ワークで試して良かったガジェットといくつかの習慣",
+    "url": "https://www.lifehacker.jp/article/2611-remote-work-productivity-gadgets-and-habits/",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
-    "title": "容量9割でも年100万個も捨てちゃう電動スクーターの電池、再就職先は「会社の蓄電池」",
-    "url": "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/",
-    "date": "Thu, 05 Nov 2026 12:00:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "「社会保険料、高すぎない？」と思ったらこれだけ知っておきたい、社会保障のしくみ",
+    "url": "https://www.lifehacker.jp/article/2611-book_to_read-2067/",
+    "date": "Thu, 05 Nov 2026 23:00:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
-    "title": "128GBで2,080円。キオクシアのmicroSDカードがこの値段はもう最後かもしれない…",
-    "url": "https://www.gizmodo.jp/article/2611-kioxia-microsd-128gb-deal/",
-    "date": "Thu, 05 Nov 2026 11:30:00 GMT",
-    "source": "Gizmodo Japan"
+    "title": "カバンを使うほどでもない日にちょうどいい多機能ミニポーチ",
+    "url": "https://www.lifehacker.jp/article/2611-costorypo-d2dpouch-review2-1559719084/",
+    "date": "Thu, 05 Nov 2026 22:00:00 GMT",
+    "source": "Lifehacker Japan"
+  },
+  {
+    "title": "この大きさで9口分。直差し電源タップでコンパクトだから出張・旅行用に",
+    "url": "https://www.lifehacker.jp/article/sanwadirect-powertap700-2611-gaj/",
+    "date": "Thu, 05 Nov 2026 21:15:00 GMT",
+    "source": "Lifehacker Japan"
   },
   {
     "title": "Gmailで「未来の自分」にメール送信。意外なところにあったタスク管理の最適解",
     "url": "https://www.lifehacker.jp/article/2611-2-matome-task-management-eke-ipi/",
     "date": "Thu, 05 Nov 2026 14:00:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "油がはねない、煙もほぼ出ない。おうち焼肉のストレス減らして楽しもう",
-    "url": "https://www.lifehacker.jp/article/2611-amazon-yakimaruslim-yxy/",
-    "date": "Thu, 05 Nov 2026 13:45:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "使わなくなった古いAndroidを「使えるスマホ」に変える4つのアプリ",
-    "url": "https://www.lifehacker.jp/article/2611-reuse-old-android-smartphone-apps/",
-    "date": "Thu, 05 Nov 2026 13:30:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "Amazonの「Alexa+」の進化に驚いた。曖昧なお願いも「意図をくみ取って」先回りしてくれる",
-    "url": "https://www.lifehacker.jp/article/2610-alexa-plus-natural-conversation/",
-    "date": "Thu, 05 Nov 2026 13:15:00 GMT",
-    "source": "Lifehacker Japan"
-  },
-  {
-    "title": "Ankerの5 in 1アダプタ、海外旅行で使ったら手放せなくなった",
-    "url": "https://www.lifehacker.jp/article/2611-anker-nano-travel-adapter-review/",
-    "date": "Thu, 05 Nov 2026 13:00:00 GMT",
     "source": "Lifehacker Japan"
   }
 ]
